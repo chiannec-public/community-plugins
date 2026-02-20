@@ -1,5 +1,11 @@
 # @backstage-community/plugin-splunk-on-call
 
+## 0.19.1
+
+### Patch Changes
+
+- 4dfd773: Use Backstage Frontend Fetch API
+
 ## 0.19.0
 
 ### Minor Changes
